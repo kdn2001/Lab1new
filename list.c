@@ -2,8 +2,8 @@
 // 
 // Implementation for linked list.
 //
-// David Daniels
-//davidcharlesdaniels@gmail.com
+// Kameron Nelson
+//kameron.nelson@bison.howard.com
 
 #include <stdio.h>
 #include <stdlib.h>
