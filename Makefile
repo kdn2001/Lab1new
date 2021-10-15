@@ -2,8 +2,8 @@
 #
 # Makefile for list implementation and test file.
 #
-# David Daniels
-# davidcharlesdaniels@gmail.com
+# Kameron Nelson
+# kameron.nelson@bison.howard.edu
 
 list: main.c
 			gcc -o main list.c
